@@ -9,3 +9,4 @@ A simple note-taking application where users can add, delete, and download their
 - **Download Notes:** Users can download individual notes as a `.txt` file for offline access.
 
 ## Screenshots
+![localhost_5173_](https://github.com/user-attachments/assets/cbb4f93b-ad4d-4bf4-b7a8-f8a6ae13832b)
